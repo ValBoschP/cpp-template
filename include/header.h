@@ -7,16 +7,9 @@
  * Autor: Valeria Bosch Pérez
  * Correo: alu0101485287@ull.edu.es
  * Fecha: X/X/202X
- * Archivo main.cc: programa principal.
- * Descripción: Este programa ...
+ * Archivo header.h: fichero de cabecera.
+ * Descripción: Este fichero contiene las definiciones y declaraciones necesarias para el proyecto.
  * Referencias:
  * Historial de revisiones:
  * X/X/202X - Creación (primera versión) del código
  */
-
-#include <iostream>
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
